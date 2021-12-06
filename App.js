@@ -3,6 +3,7 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
+  let x = 8;
   return (
     <View style={styles.container}>
       <Text>Love You, Leela!</Text>

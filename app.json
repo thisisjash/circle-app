@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "An app that reminds you to stay connected...",
+    "githubUrl": "https://github.com/thisisjash/circle-app"
   }
 }
